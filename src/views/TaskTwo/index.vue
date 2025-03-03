@@ -20,12 +20,10 @@ import CardFilter from './filter/CardFilter.vue'
     width: 100%;
     .filter {
         flex: 1 1 30%;
-        border: 2px solid black;
         padding: 20px;
     }
     .display {
         flex: 1 1 70%;
-        border: 2px solid black;
         padding: 20px;
     }
 }
